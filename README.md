@@ -1,4 +1,4 @@
-# ML System Design & LLMOps — SST course notes
+# ML System Design & LLMOps SST course notes
 
 Study notes, exam guide and worked answers for **ML System Design and LLMOps**, taught by Priyansh Saxena at Scaler School of Technology (8 weeks, closed Sept 2026).
 
